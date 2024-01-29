@@ -1,0 +1,17 @@
+## Telepresence
+
+The word “telepresence” refers to real-time techniques that simulate the presence of a person [^lombardditton11teleprence] in another space using various digital systems.
+Telepresence technology often makes particular use of sound and sight.
+In particular thanks to sensors such as cameras or microphones. But it can also include other sensory sources such as touch.[^stein11teleprence]
+
+
+[^stein11teleprence]Stein, J. (2011). *Telepresence. In The International Encyclopedia of Media Studies* (p01-03).
+https://academic.oup.com/jcmc/article/3/2/JCMC321/4080403 
+
+[^lombardditton11teleprence]Lombard M, & Ditton T. (1997). *At the heart of it all: The concept of presence. Journal of Computer-Mediated Communication,* (p0-01).
+https://www.scirp.org/reference/ReferencesPapers?ReferenceID=1426936 
+
+The wikipedia page of the word telepresence.
+​​https://en.wikipedia.org/wiki/Telepresence 
+
+ChatGPT4 to help me find references and to translate some texts.
